@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">desidiaries</string>
+    <string name="facebook_app_id">3204733006443950</string>
+    <string name="fb_login_protocol_scheme">fb3204733006443950</string>
+    <string name="facebook_client_token">Ebb20ae4be389c200bdd38c931bed2db</string>
+</resources>
+

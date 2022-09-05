@@ -1,0 +1,1 @@
+keytool -genkey -v -keystore ~/home/atanu/Flutter\Project/Freelancing\Project/Jaipur\Dairies/News\Project\V2.0.2/jks/desidiaries.jks -keyalg RSA -keysize 2048 -validity 50000 -alias desidiaries

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "932522173569",
+    "project_id": "desidiaries-e3b4b",
+    "storage_bucket": "desidiaries-e3b4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932522173569:android:7842d7939cfd1027f05980",
+        "android_client_info": {
+          "package_name": "com.desidiaries.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932522173569-emp9esgfhi1mo0hfsgcep1sur92rdcuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desidiaries.com",
+            "certificate_hash": "c44a512664b2fdabdaa318f8ae0605c12e123235"
+          }
+        },
+        {
+          "client_id": "932522173569-q1f9danjbh48li4oocmd352g7nagj5to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzrcxTTsBw8s_jFZUxJjxiqkS6z5QZbtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932522173569-q1f9danjbh48li4oocmd352g7nagj5to.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "932522173569-4chdfjv0peoe5n8hator1p1go512leba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.desidiaries.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
